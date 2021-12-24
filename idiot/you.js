@@ -1,7 +1,7 @@
 /* [Oct 2021] Added to comply with strict browser policies. */
 document.addEventListener('click', musicPlay);
 
-alert("you should'nt cheat... enjoy game");
+alert("you shouldn't cheat... enjoy game");
 function musicPlay() {
     var audio = document.getElementById('youare-audio');
 	var micon = document.getElementById('youare-micon');
