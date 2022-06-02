@@ -1,0 +1,60 @@
+.a-backgroundcolor {
+    background-color: #051923;
+}
+
+.navbar {
+    background-color: #00a6fb;
+}
+
+.a-wifym {
+    text-decoration: none;
+}
+
+.a-linkhover {
+    color: white;
+    text-decoration: none;
+}
+
+.a-mainimg {
+    border: 0px solid;
+    border-radius: 10px;
+}
+
+.a-audio {
+    width: 50%;
+    height: 40%;
+}
+
+.a-head {
+    z-index: 1;
+}
+
+.a-container {
+    background-image: url(https://media.tenor.com/images/b8d9373e6bc0f123928e59f9d7a94ae0/tenor.gif);
+    color: #fff;
+    position: relative;
+    height: 100vh;
+    padding: 100px;
+    justify-content: center;
+    display: flex;
+    background-size: 100%;
+    background-repeat: repeat-x;
+    max-height: 370px;
+}
+
+.a-cut {
+    background-color: #051923;
+    margin-bottom: 100px;
+}
+
+.a-paragraph {
+    padding-top: 100px;
+}
+
+.a-footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    width:100%;
+    color: #fff;
+}
